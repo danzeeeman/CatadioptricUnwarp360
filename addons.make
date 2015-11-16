@@ -1,2 +1,4 @@
 ofxOpenCv
 ofxXmlSettings
+ofxCv
+ofxVideoRecorder
